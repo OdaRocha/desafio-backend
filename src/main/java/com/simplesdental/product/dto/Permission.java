@@ -1,0 +1,17 @@
+package com.simplesdental.product.dto;
+
+public enum Permission {
+    CREATE_PRODUCT,
+    UPDATE_PRODUCT,
+    DELETE_PRODUCT,
+    VIEW_PRODUCT,
+    CREATE_CATEGORY,
+    UPDATE_CATEGORY,
+    DELETE_CATEGORY,
+    VIEW_CATEGORY,
+    CREATE_USER,
+    UPDATE_USER,
+    DELETE_USER,
+    VIEW_USER,
+    UPDATE_PASSWORD
+}
